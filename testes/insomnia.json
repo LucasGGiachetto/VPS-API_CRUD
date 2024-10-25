@@ -1,0 +1,47 @@
+[
+	{
+        "cliente_id": 1,
+		"nome": "João da Silva",
+		"cpf": "12345678901",
+		"email": "joao@email.com",
+		"endereco": "Rua A, 123",
+		"data_nascimento": "1990-01-01T02:00:00.000Z",
+		"data_cadastro": "2023-10-25T03:00:00.000Z"
+	},
+	{
+		"cliente_id": 2,
+		"nome": "Maria Souza",
+		"cpf": "10987654321",
+		"email": "maria@email.com",
+		"endereco": "Rua B, 456",
+		"data_nascimento": "1992-02-02T02:00:00.000Z",
+		"data_cadastro": "2023-10-25T03:00:00.000Z"
+	},
+	{
+		"cliente_id": 3,
+		"nome": "Carlos Pereira",
+		"cpf": "12345678912",
+		"email": "carlos@email.com",
+		"endereco": "Avenida C, 789",
+		"data_nascimento": "1985-03-03T03:00:00.000Z",
+		"data_cadastro": "2023-10-25T03:00:00.000Z"
+	},
+	{
+		"cliente_id": 5,
+		"nome": "Mário Elias Gabriel Castro",
+		"cpf": "205.804.750",
+		"email": "mario_castro@gmail.com.br",
+		"endereco": "Rua Paranhos Montenegro",
+		"data_nascimento": "1976-03-26T03:00:00.000Z",
+		"data_cadastro": "2024-10-25T03:00:00.000Z"
+	},
+	{
+		"cliente_id": 7,
+		"nome": "Gabrielly Alana Novaes",
+		"cpf": "353.219.982",
+		"email": "gabrielly_novaes@grupova.com.br",
+		"endereco": "Rua Paranhos Montenegro",
+		"data_nascimento": "2006-10-12T03:00:00.000Z",
+		"data_cadastro": "2024-10-25T03:00:00.000Z"
+	}
+]
